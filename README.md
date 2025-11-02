@@ -99,10 +99,6 @@ Example notes:
 - Script errors about missing modules:
   - Install required packages (see Requirements section).
 
-## License
-
-See the LICENSE file in this repository for license details. If there is no LICENSE file yet, add one (MIT is common for example projects).
-
 ## Contact
 
 Maintainer: @AbondentSpace1386
